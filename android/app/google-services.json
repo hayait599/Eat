@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "730086899438",
+    "project_id": "firebase-eatps"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730086899438:android:9a30deed7b5f5fa3",
+        "android_client_info": {
+          "package_name": "com.eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730086899438-c3lu17jig48d6seqesm5cmnq3md515ej.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "730086899438-cso5go2101m1aob08oh8f4r8il1v5q8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eat",
+            "certificate_hash": "e46f49f328eaa083cb33239b13b2299d620abeec"
+          }
+        },
+        {
+          "client_id": "730086899438-bk5vmfs6ag665rtr8mj7cn1ltf81gl4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODPwI2CtxmTt2Nlq6nt56D2bvFQ7w-3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
